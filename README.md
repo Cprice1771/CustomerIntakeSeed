@@ -6,15 +6,15 @@ You will be integrating with our public API at
 
 https://leaflogix-publicapi.azurewebsites.net/swagger/#/
 
-and will be given an API key to integrate with our test environment. 
+and will be given an API key to integrate with our test environment.  
 
-The application can be written in any technology you like, the only requirements are as follows
+The application can be written in any technology you like, and you are free to import any libraries you like. The only requirements are as follows
 
 1. The customer intake form will create customers in leaflogix 
 1. The customer intake form can intake both Recreational and Medical customers 
 1. After completing registration customers are giver a success message and a new form is displayed allowing a new customer to sign up
 1. Required fields are
-    1. If the customer is medical thei Medical Marijuana Id and Expiration date is required. 
+    1. If the customer is medical their Medical Marijuana Id and Expiration date is required. 
     1. Phone number is always required and must be a valid US phone number 
     1. First and last name are required
     1. DOB is required (and must be in the past and after 1800 (no vampires allowed in our system)) 
