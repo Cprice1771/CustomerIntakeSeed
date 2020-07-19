@@ -28,3 +28,4 @@ The application can be written in any technology you like, and you are free to i
 Other API Notes: 
 1. the name field is deprecated and no longer used, please use firstName and lastName
 1. for gender Male, Female, NonBianry and Null are acceptable values.
+1. Valid customer types are Medical and Recreactional.
